@@ -53,4 +53,7 @@ Clone the repo:
 ```bash
 git clone https://github.com/yourusername/stock-price-predictor.git
 cd stock-price-predictor
+```
+## Link to Colab Notebook
 
+https://colab.research.google.com/drive/11-800eJEE6FfZJXGF7IkMUYszpO7F17s?usp=sharing
